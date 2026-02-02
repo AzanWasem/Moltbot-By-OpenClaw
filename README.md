@@ -1,4 +1,4 @@
-# End-to-end PyTorch & TensorFlow demo
+# End-to-end PyTorch & TensorFlow 
 
 This small scaffold demonstrates training tiny models in both PyTorch and TensorFlow, a FastAPI backend that loads them, and a minimal frontend to call the API.
 
@@ -48,4 +48,5 @@ To manually publish locally to Docker Hub:
 docker build -t <your-dockerhub-username>/ml-demo:latest .
 docker push <your-dockerhub-username>/ml-demo:latest
 ```
+
 
